@@ -49,7 +49,7 @@ To perform basic image processing operations on an image using Python.
 Orginal image.jpeg- Original image
 Gray image.jpeg - Grays image
 Resized image.jpeg - Resized image
-Cropped image.jpeg - Cropped image
+Cropped_image.jpeg - Cropped image
 
 
 ## Source Code
