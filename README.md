@@ -37,8 +37,9 @@ To perform basic image processing operations on an image using Python.
 <img src="https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/07f3b28c7e258aa11a6306043bc8c7b79573dc07/Gray%20image.jpeg" width="300">
 
 ## Resized Image
+ 
 
-<img src="https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/c386dd193c565b035a0fe43441791bc07116413c/Resized%20image.jpeg"width="300">
+<img src="https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/c386dd193c565b035a0fe43441791bc07116413c/Resized%20image.jpeg" width="300">
 
 ## Cropped Image
 
