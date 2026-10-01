@@ -1,56 +1,68 @@
-# Digital-image-processing-Assignment
+# Digital Image Processing
+
+## Assignment
+
 This project demonstrates basic image processing operations using Python, OpenCV, and Matplotlib.
 
-Objective
+## Objective
+
 To perform basic image processing operations on an image using Python.
 
-Operations Performed
-1.Read the image
-2.Display the image
-3.Print the image dimensions
-4.Print the pixel value at (100,100)
-5.Convert the image to grayscale
-6.Print the grayscale image dimensions
-7.Display the grayscale image
-8.Resize the image to 300 × 300
-9.Crop a portion of the image
-10.Save the grayscale image as 
-gray_output.jpg
+## Operations Performed
 
+1. Read the image
+2. Display the image
+3. Print the image dimensions
+4. Print the pixel value at (100,100)
+5. Convert the image to grayscale
+6. Print the grayscale image dimensions
+7. Display the grayscale image
+8. Resize the image to 300 × 300
+9. Crop a portion of the image
+10. Save the grayscale image as `gray_output.jpg`
 
-Technologies Used
-Python
-OpenCV
-Matplotlib
-Input Image
+## Technologies Used
 
+- Python
+- OpenCV
+- Matplotlib
 
-Original Image
+## Input Image
 
+<img src="images.png" width="300">
 
-Grayscale Image
+## Original Image
 
+<img src="Original_output.png" width="300">
 
-Resized Image
+## Grayscale Image
 
+<img src="gray_output.jpg" width="300">
 
-Cropped Image
-https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/a34f2d5c018dd4cd868e99005c3366334234ebe0/Cropped%20image.jpeg![image alt](image_url)
-Output Files
-Original_output.png - Original image
-gray_output.jpg - Grayscale image
-Resized_output.png - Resized image
-Cropped_output.png - Cropped image
-Source Code
+## Resized Image
+
+<img src="Resized_output.png" width="300">
+
+## Cropped Image
+
+<img src="Cropped_output.png" width="300">
+
+## Output Files
+
+- `Original_output.png` - Original image
+- `gray_output.jpg` - Grayscale image
+- `Resized_output.png` - Resized image
+- `Cropped_output.png` - Cropped image
+
+## Source Code
+
 The complete Python source code is available in:
 
-main.py
+`main.py`
 
-Conclusion
+## Conclusion
+
 Basic image processing operations such as image reading, displaying, grayscale conversion, resizing, cropping, and saving were successfully performed using Python, OpenCV, and Matplotlib.
 
-Author
+## Author
 Rabeya Sultana Bristy
-
-About
-No description, website, or topics p
