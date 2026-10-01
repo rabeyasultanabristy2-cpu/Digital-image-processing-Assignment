@@ -43,7 +43,7 @@ To perform basic image processing operations on an image using Python.
 
 ## Cropped Image
 
-<img src="Cropped_output.png" width="300">
+<img src="https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/4dee94f553aebaa5936cb883b0346e4b7782f707/Cropped%20image.jpeg" width="300">
 
 ## Output Files
 
