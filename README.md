@@ -35,8 +35,7 @@ Resized Image
 
 
 Cropped Image
-https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/a34f2d5c018dd4cd868e99005c3366334234ebe0/Cropped%20image.jpeg
-![image alt](image_url)
+https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/a34f2d5c018dd4cd868e99005c3366334234ebe0/Cropped%20image.jpeg![image alt](image_url)
 Output Files
 Original_output.png - Original image
 gray_output.jpg - Grayscale image
