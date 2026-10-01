@@ -30,7 +30,7 @@ To perform basic image processing operations on an image using Python.
 
 ## Original Image
 
-<img src=""C:\Users\DELL\Desktop\Digital image processing\DIGITAL IMAGE PROCESSING\Original image.jpeg" width="300">
+<img src="https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/1cdf1b16a8eec449ccd149d8797abb24fe8d65f3/Original%20image.jpeg" width="300">
 
 ## Grayscale Image
 
