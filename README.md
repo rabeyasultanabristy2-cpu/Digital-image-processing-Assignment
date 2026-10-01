@@ -27,13 +27,10 @@ To perform basic image processing operations on an image using Python.
 - OpenCV
 - Matplotlib
 
-## Input Image
-
-<img src="images.png" width="300">
 
 ## Original Image
 
-<img src="Original_output.png" width="300">
+<img src=""C:\Users\DELL\Desktop\Digital image processing\DIGITAL IMAGE PROCESSING\Original image.jpeg" width="300">
 
 ## Grayscale Image
 
