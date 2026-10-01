@@ -32,13 +32,13 @@ To perform basic image processing operations on an image using Python.
 
 <img src="https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/1cdf1b16a8eec449ccd149d8797abb24fe8d65f3/Original%20image.jpeg" width="300">
 
-## Grayscale Image
+## Grays Image
 
-<img src="gray_output.jpg" width="300">
+<img src="https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/07f3b28c7e258aa11a6306043bc8c7b79573dc07/Gray%20image.jpeg" width="300">
 
 ## Resized Image
 
-<img src="Resized_output.png" width="300">
+<img src=" width="300">
 
 ## Cropped Image
 
