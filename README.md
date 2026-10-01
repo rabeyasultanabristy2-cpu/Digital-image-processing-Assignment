@@ -46,7 +46,7 @@ To perform basic image processing operations on an image using Python.
 <img src="https://github.com/rabeyasultanabristy2-cpu/Digital-image-processing-Assignment/blob/4dee94f553aebaa5936cb883b0346e4b7782f707/Cropped%20image.jpeg" width="300">
 
 ## Output files
-Orginl image.jpeg- Original image
+Orginal image.jpeg- Original image
 Gray image.jpeg - Grays image
 Resized image.jpeg - Resized image
 Cropped image.jpeg - Cropped image
